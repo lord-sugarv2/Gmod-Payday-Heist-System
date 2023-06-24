@@ -33,25 +33,25 @@ RVault.Upgrades = {
 }
 
 RVault.Loot = {
-    {SpawnPos = Vector(-3950.312744, -1989.688477, -187.687546), Ent = "lords_money_stack_big", SpawnChance = 100},
-    {SpawnPos = Vector(-3957.346436, -2027.006226, -152.840256), Ent = "lords_money_stack_big", SpawnChance = 100},
-    {SpawnPos = Vector(-3855.705811, -2001.036377, -187.895691), Ent = "lords_money_stack_big", SpawnChance = 100},
-    {SpawnPos = Vector(-3992.419922, -2096.496094, -187.661118), Ent = "lords_money_stack_big", SpawnChance = 100},
-    {SpawnPos = Vector(-3941.693359, -1581.823120, -187.419754), Ent = "lords_money_stack_big", SpawnChance = 100},
-    {SpawnPos = Vector(-4055.886963, -1545.017578, -187.582626), Ent = "lords_money_stack_big", SpawnChance = 100},
-    {SpawnPos = Vector(-4251.974121, -1584.027710, -187.901672), Ent = "lords_money_stack_big", SpawnChance = 100},
-    {SpawnPos = Vector(-4316.274414, -1706.680298, -187.283569), Ent = "lords_money_stack_big", SpawnChance = 100},
+    {SpawnPos = Vector(-3950.312744, -1989.688477, -187.687546), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-3957.346436, -2027.006226, -152.840256), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-3855.705811, -2001.036377, -187.895691), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-3992.419922, -2096.496094, -187.661118), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-3941.693359, -1581.823120, -187.419754), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4055.886963, -1545.017578, -187.582626), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4251.974121, -1584.027710, -187.901672), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4316.274414, -1706.680298, -187.283569), Ent = "lords_money_stack_big", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
 
-    {SpawnPos = Vector(-4414.383301, -2125.988770, -149.783386), Ent = "lords_money_stack", SpawnChance = 100},
-    {SpawnPos = Vector(-4416.586914, -2091.716553, -149.783386), Ent = "lords_money_stack", SpawnChance = 100},
-    {SpawnPos = Vector(-4425.232422, -2060.834473, -149.783386), Ent = "lords_money_stack", SpawnChance = 100},
-    {SpawnPos = Vector(-4403.448242, -2045.222656, -149.783386), Ent = "lords_money_stack", SpawnChance = 100},
-    {SpawnPos = Vector(-4413.861328, -2017.502075, -149.783386), Ent = "lords_money_stack", SpawnChance = 100},
-    {SpawnPos = Vector(-4433.784668, -1989.796265, -149.783386), Ent = "lords_money_stack", SpawnChance = 100},
+    {SpawnPos = Vector(-4414.383301, -2125.988770, -149.783386), Ent = "lords_money_stack", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4416.586914, -2091.716553, -149.783386), Ent = "lords_money_stack", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4425.232422, -2060.834473, -149.783386), Ent = "lords_money_stack", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4403.448242, -2045.222656, -149.783386), Ent = "lords_money_stack", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4413.861328, -2017.502075, -149.783386), Ent = "lords_money_stack", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4433.784668, -1989.796265, -149.783386), Ent = "lords_money_stack", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
 
-    {SpawnPos = Vector(-4420.278320, -1920.169067, -149.762695), Ent = "lords_money", SpawnChance = 100},
-    {SpawnPos = Vector(-4429.146973, -1869.641846, -149.762695), Ent = "lords_money", SpawnChance = 100},
-    {SpawnPos = Vector(-4408.008789, -1874.939331, -149.762695), Ent = "lords_money", SpawnChance = 100},
+    {SpawnPos = Vector(-4420.278320, -1920.169067, -149.762695), Ent = "lords_money", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4429.146973, -1869.641846, -149.762695), Ent = "lords_money", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
+    {SpawnPos = Vector(-4408.008789, -1874.939331, -149.762695), Ent = "lords_money", SpawnChance = 100, Value = {Min = 10000, Max = 20000}},
 }
 
 -- The PNG's are 1:3 ratio
