@@ -55,6 +55,7 @@ function RVault:SpawnLoot()
         ent:Spawn()
         ent:SetPos(v.SpawnPos)
         ent.HeistLoot = true
+        ent.Value = math.random(v.Min, v.Max)
         RVault.ActiveHeist.Loot[ent] = true
     end
 end
